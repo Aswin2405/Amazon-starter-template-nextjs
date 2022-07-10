@@ -44,3 +44,4 @@ dispatch(addToBasket(product))
 }
 
 export default CheckoutProduct
+
